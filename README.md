@@ -1,3 +1,7 @@
+Documento Principal
+https://docs.google.com/document/d/17eSMUfcYhmqPLK_Zf2IAggGs5i-FUQkepo3nT7sPBwY/edit
+
+
 # VR
 
 CardBoard Prueba:
